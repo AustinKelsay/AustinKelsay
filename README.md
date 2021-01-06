@@ -1,7 +1,7 @@
 # Hello world! I'm Austin 👋
 
 <img src="https://pbs.twimg.com/media/EhkOUN2WsAAtDSA?format=jpg&name=small" alt="banner that says Austin Kelsay">
-I am a Web Devloper with a passion for Bitcoin, music, and open source software. Currently looking for my first junior developer position!
+I am a Web Devloper with a passion for Bitcoin, music, and protecting users privacy/data. Currently looking for my first junior developer position!
 
 # My mission:
 To participate in software that is meaningful for individuals.
