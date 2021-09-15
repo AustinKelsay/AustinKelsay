@@ -1,7 +1,7 @@
 # Hello world! I'm Austin 👋
 
 <img src="https://pbs.twimg.com/media/EhkOUN2WsAAtDSA?format=jpg&name=small" alt="banner that says Austin Kelsay">
-I am a Devloper with a passion for Bitcoin, music, and protecting user privacy/data.
+Software engineer with a passion for Bitcoin, privacy, and security.
 
 # My mission:
 To participate in software that is meaningful for individuals.
