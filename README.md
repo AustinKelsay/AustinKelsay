@@ -8,7 +8,7 @@ To participate in software that is meaningful for individuals.
 To be surounded by colleagues and teams building impactful software.
 
 # My history:
-I began my journey as a self taught developer with a passion for Bitcoin/FOSS. However, I learn faster in a team environment, so I got serious 2 years ago & enrolled in Lambda School as a Full Stack Web student. From Lambda School I graduated as a student and worked as a Team Lead for 1 year helping teach students how to code. Since mid 2021 I have worked as an AI Implementation Engineer at Forethought
+I began my journey self taught after my interest in Bitcoin grew to a passion along with my understanding of money and software. Quickly my pursuit outgrew my means, and I got serious enough about my interest 2 years ago to enter Lambda School (now Bloomtech) as a Full Stack Web student. While continuing my studies, I worked as a Team Lead for 1 year helping other students learn to code. After graduation, in 2021, I accepted a position at Forethought as an AI Solutions Engineer.
 
 
 ## Find me around the web 🌎:
