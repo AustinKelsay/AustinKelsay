@@ -1,7 +1,7 @@
 # Hello world! I'm Austin 👋
 
 <img src="https://pbs.twimg.com/media/EhkOUN2WsAAtDSA?format=jpg&name=small" alt="banner that says Austin Kelsay">
-Software developer with a passion for Bitcoin, FOSS, and AI/ML.
+Developer with a passion for Bitcoin, FOSS, and AI/ML.
 
 # My mission:
 To participate in software that is meaningful for individuals.
