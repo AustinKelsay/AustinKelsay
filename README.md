@@ -14,4 +14,4 @@ I began my journey self taught after my interest in Bitcoin grew to a passion al
 ## Find me around the web 🌎:
 - My portfolio/personal site <a href="https://austinkelsay.codes/">https://austinkelsay.codes/</a>
 - My Resume <a href="https://docs.google.com/document/d/1ejpR0E0RjGHP2wRhTTk7VAm1ZsI0pYKBXayeQ0hfhf8/edit?usp=sharing">Austin Kelsay</a>
-- My Twitter <a href="https://twitter.com/ASeries_ofTubes">https://twitter.com/ASeries_ofTubes</a>
+- My Twitter <a href="https://twitter.com/bitcoinplebdev">https://twitter.com/bitcoinplebdev</a>
