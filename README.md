@@ -8,7 +8,7 @@
 - Team Lead at Bloomtech Institute of Technology (1yr)
 - Implementation Engineer at Forethought Technologies (1yr)
 
-Currently: 
+<strong>Currently:</strong> 
 - Frontend Engineer at Fold, Inc. as of August 1st 2022
 
 
