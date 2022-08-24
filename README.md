@@ -4,7 +4,7 @@
 
 ### Pleb/Dev focussed on Bitcoin
 
-Previously: 
+<strong>Previously:</strong>
 - Team Lead at Bloomtech Institute of Technology (1yr)
 - Implementation Engineer at Forethought Technologies (1yr)
 
