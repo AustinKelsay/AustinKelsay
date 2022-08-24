@@ -1,7 +1,7 @@
 # Hello world! I'm Austin 👋
 
 <img src="https://pbs.twimg.com/media/EhkOUN2WsAAtDSA?format=jpg&name=small" alt="banner that says Austin Kelsay">
-##Pleb/Dev focussed on Bitcoin
+## Pleb/Dev focussed on Bitcoin
 
 
 Previously: 
