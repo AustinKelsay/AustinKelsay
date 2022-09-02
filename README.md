@@ -2,7 +2,7 @@
 
 <img src="https://pbs.twimg.com/media/EhkOUN2WsAAtDSA?format=jpg&name=small" alt="banner that says Austin Kelsay">
 
-### Pleb/Dev focussed on Bitcoin
+### Pleb/Dev focused on Bitcoin
 
 <strong>Previously:</strong>
 - Team Lead at Bloomtech Institute of Technology (1yr)
