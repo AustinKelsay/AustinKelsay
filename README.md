@@ -1,6 +1,6 @@
 # Hello world! I'm Austin 👋
 
-![Fb0-Sc9XwAE7W9f](https://user-images.githubusercontent.com/53542748/207914249-88736ee8-a72d-4b02-82a9-77352eb5627b.jpeg)
+![Fb0-Sc9XwAE7W9f](https://user-images.githubusercontent.com/53542748/207914970-1c068194-a7cd-4331-9593-b27eef429b76.jpeg)
 
 ### Pleb/Dev focused on Bitcoin
 
