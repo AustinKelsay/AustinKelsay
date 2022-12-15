@@ -1,6 +1,6 @@
 # Hello world! I'm Austin 👋
 
-<img src="https://pbs.twimg.com/media/EhkOUN2WsAAtDSA?format=jpg&name=small" alt="banner that says Austin Kelsay">
+![Fb0-Sc9XwAE7W9f](https://user-images.githubusercontent.com/53542748/207914249-88736ee8-a72d-4b02-82a9-77352eb5627b.jpeg)
 
 ### Pleb/Dev focused on Bitcoin
 
