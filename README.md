@@ -7,11 +7,11 @@
 <strong>Previously:</strong>
 - Team Lead at Bloomtech Institute of Technology (1yr)
 - Implementation Engineer at Forethought Technologies (1yr)
-
-<strong>Currently:</strong> 
-- Frontend Engineer at Fold, Inc. as of August 1st 2022
+- Frontend Engineer at Fold, Inc. (1yr)
 
 
 ## Find me around the web 🌎:
-- My portfolio/personal site <a href="https://bitcoinpleb.dev/">https://bitcoinpleb.dev/</a>
-- My Twitter <a href="https://twitter.com/bitcoinplebdev">https://twitter.com/bitcoinplebdev</a>
+- My portfolio/personal site: <a href="https://bitcoinpleb.dev/">https://bitcoinpleb.dev/</a>
+- My Twitter: <a href="https://twitter.com/bitcoinplebdev">https://twitter.com/bitcoinplebdev</a>
+- My npub: npub1s9etjgzjglwlaxdhsveq0qksxyh6xpdpn8ajh69ruetrug957r3qpklxzl
+
