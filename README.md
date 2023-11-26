@@ -9,6 +9,9 @@
 - Implementation Engineer at Forethought Technologies (1yr)
 - Frontend Engineer at Fold, Inc. (1yr)
 
+<strong>Currently:</strong>
+- Founder / Instructor for [plebdevs](https://plebdevs.com)
+- Nostr / Prism dev at [makeprisms](https://makeprisms.com)
 
 ## Find me around the web 🌎:
 - My portfolio/personal site: <a href="https://bitcoinpleb.dev/">https://bitcoinpleb.dev/</a>
