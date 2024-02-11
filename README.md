@@ -1,6 +1,6 @@
-# Hello world! I'm Austin - bitcoinplebdev 🤝
+# Hello world! I'm Austin - the bitcoinplebdev 🤝
 
-![me-cropped](https://github.com/AustinKelsay/AustinKelsay/assets/53542748/d1d30cf1-88d5-4ae0-b200-eccbb9dd543d)
+![image](https://github.com/AustinKelsay/AustinKelsay/assets/53542748/cb93a036-778f-4d26-83b2-0c47ece86820)
 
 ### Pleb/Dev focused on Bitcoin
 
