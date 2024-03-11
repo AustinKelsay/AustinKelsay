@@ -8,7 +8,7 @@
 - Team Lead at [Bloomtech Institute of Technology](https://bloomtech.com)
 - AI Implementation Engineer at [Forethought Technologies](https://forethought.ai)
 - Frontend Engineer at [Fold](https://foldapp.com)
-- Software Engineer / Consultant at [makeprisms](https://makeprisms.com)
+- Software Engineer / Consultant at [Prism](https://makeprisms.com)
 
 <strong>Currently:</strong>
 - Founder / Instructor for [plebdevs](https://plebdevs.com)
