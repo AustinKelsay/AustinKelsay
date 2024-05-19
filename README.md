@@ -11,6 +11,7 @@
 - Software Engineer / Consultant at [Prism](https://makeprisms.com)
 
 <strong>Currently:</strong>
+- Developer Relations Engineer at [Voltage](https://voltage.cloud)
 - Founder / Instructor for [plebdevs](https://plebdevs.com)
 
 ## Find me around the web 🌎:
