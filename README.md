@@ -11,8 +11,9 @@
 - Software Engineer / Consultant at [Prism](https://makeprisms.com)
 
 <strong>Currently:</strong>
-- Developer Relations Engineer at [Voltage](https://voltage.cloud)
+- Lightning Implementation Engineer at [Voltage](https://voltage.cloud)
 - Founder / Instructor for [plebdevs](https://plebdevs.com)
+- Co-creator / Contributor [Frostr](https://frostr.org)
 
 ## Find me around the web 🌎:
 - My portfolio/personal site: <a href="https://bitcoinpleb.dev/">https://bitcoinpleb.dev/</a>
