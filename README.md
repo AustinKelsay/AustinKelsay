@@ -11,7 +11,7 @@
 - Software Engineer / Consultant at [Prism](https://makeprisms.com)
 
 <strong>Currently:</strong>
-- Lightning Implementation Engineer at [Voltage](https://voltage.cloud)
+- Head of Implementation at [Voltage](https://voltage.cloud)
 - Founder / Instructor for [plebdevs](https://plebdevs.com)
 - Co-creator / Contributor [Frostr](https://frostr.org)
 
