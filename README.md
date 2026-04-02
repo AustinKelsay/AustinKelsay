@@ -1,4 +1,4 @@
-# Hello world! I'm Austin - the bitcoinplebdev 🤝
+# bitcoinplebdev
 
 ![Untitled design(8)](https://github.com/AustinKelsay/AustinKelsay/assets/53542748/cb3c1f29-40a0-40a0-80e1-2095d4b475e7)
 
